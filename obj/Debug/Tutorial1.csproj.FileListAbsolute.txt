@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\Tutorial1.dll
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\obj\Debug\Tutorial1.dll
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\DDLServerInterface.dll
+C:\Users\ASUS\source\repos\Tutorial1\Tutorial1\bin\Debug\DDLServerInterface.pdb
